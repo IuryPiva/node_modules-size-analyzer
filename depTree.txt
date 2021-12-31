@@ -1,0 +1,7 @@
+
+--> --> --> deepmerge 0.89M
+--> --> @sendgrid/helpers 0.89M
+--> --> --> follow-redirects 1.30M
+--> --> axios 1.30M
+--> @sendgrid/client 1.30M
+@sendgrid/mail 1.44M
